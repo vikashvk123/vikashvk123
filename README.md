@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @vikashvk123
+- 👋 Hi, I’m Vikash Kumar
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning HTML | CSS | JAVASCRIPT | REACTJS
+- 🌱 I’m currently learning REACTJS
 - 💞️ I’m looking to collaborate on Web Development Project
 - 📫 Reach me - Vikash150919@gmail.com
 
