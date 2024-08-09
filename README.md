@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning REACTJS
 - 💞️ I’m looking to collaborate on Web Development Project
-- 📫 Reach me - Vikash150919@gmail.com
+- 📫 Reach me @ Vikash150919@gmail.com
 
 <!---
 vikashvk123/vikashvk123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
